@@ -1,15 +1,17 @@
-# Expo Router Example
+<h1 align="center">Expo Router</h1>
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+<p>
+    <img src=".github/expo-app-router.jpg" width="100%">
+</p>
 
-## 🚀 How to use
+## :computer: Projeto
 
-```sh
-npx create-react-native-app -t with-router
-```
+O Expo Router é uma nova forma de trabalhar com navegação dentro do React Native e diferente do React Navigation onde é possível criar um arquivo de navegação, o Expo Router trabalhar com File System Routing, ou seja, as rotas são definidas através de uma hierarquia de pastas e arquivos.
 
-## 📝 Notes
+## :rocket: Tecnologias
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-- [Request for Comments](https://github.com/expo/router/discussions/1)
+Foram usadas as seguintes tecnologias:
+
+- [React Native](https://reactnative.dev)
+- [Expo](https://expo.dev)
+- [Expo Router](https://expo.github.io/router/docs/)
